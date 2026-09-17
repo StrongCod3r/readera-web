@@ -1,6 +1,6 @@
-# ReadEra Web clone (HTML / JavaScript)
+# Libris (HTML / JavaScript)
 
-A fast, dependency-light browser prototype inspired by ReadEra's library and reading UX.
+A fast, dependency-light browser reader for ebooks, PDFs and local documents.
 
 ## Run
 
@@ -16,7 +16,7 @@ http://localhost:8080
 
 ## Implemented
 
-- Responsive ReadEra-like library UI
+- Responsive library UI
 - List/grid views, search and sorting
 - Reading Now, Favorites, To Read, Have Read
 - Authors, series, collections, formats, folders/download-style views
@@ -46,7 +46,7 @@ http://localhost:8080
 
 ## Notes
 
-This is a front-end prototype, not the official ReadEra application.
+Libris is an independent front-end browser reader prototype.
 
 EPUB parsing needs the `fflate` CDN script to load. PDF rendering uses PDF.js from cdnjs. If you want a fully offline build, download fflate's UMD bundle and reference it locally.
 
