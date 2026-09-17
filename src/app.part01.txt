@@ -182,7 +182,7 @@ function shellHTML(){
     <aside class="sidebar ${state.mobileNav?"open":""}">
       <div class="brand">
         <div class="brand-mark"></div>
-        <div class="brand-copy"><strong>ReadEra Web</strong><span>reader prototype</span></div>
+        <div class="brand-copy"><strong>Libris</strong><span>browser reader</span></div>
       </div>
       <div class="nav-scroll">
         <div class="nav-group">
